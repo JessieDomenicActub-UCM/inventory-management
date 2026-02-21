@@ -1,4 +1,4 @@
-using InventoryManagement.Views; // Connects to the View
+using InventoryManagement.Views; 
 
 namespace InventoryManagement
 {
